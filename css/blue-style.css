@@ -6,3 +6,8 @@ h1 {
 	color: blueviolet;
 	font-size: 1.5em;
 }
+
+img {
+	width:30%;
+	height: 30%;
+}
